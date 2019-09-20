@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-
+#tes
 #查看文件夹内包含文件的数量
 
 import tinify
